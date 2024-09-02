@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MD Masuk Kabir Dalim! 👋</h1>
+<h1 align="center">Hi, I'm Jakir Hassain! 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
 
 <p align="center">
@@ -8,8 +8,7 @@
 
 ---
 
-- 🔭 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**
-- 🌱 Learning **React Native**
+- 🌱 Learning **Next.js**
 - 🤝 Open to collaborating on **Open Source Projects**
 
 <h3 align="center">🌐 Connect with Me</h3>
